@@ -1,0 +1,22 @@
+<settings xmlns="http://maven.apache.org/SETTINGS/1.0.0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.0.0
+                      http://maven.apache.org/xsd/settings-1.0.0.xsd">
+  <localRepository>E:/DATA/Downloads/Development/maven-repo</localRepository>
+  <interactiveMode/>
+  <usePluginRegistry/>
+  <offline/>
+  <pluginGroups/>
+  <servers/>
+  <mirrors>
+  	<mirror>
+  		<id>atos-public</id>
+  		<name>Atos Public Mirror</name>
+  		<url>http://an-win764-vm:8081/nexus/content/groups/public</url>
+  		<mirrorOf>*</mirrorOf>
+  	</mirror>
+  </mirrors>
+  <proxies/>
+  <profiles/>
+  <activeProfiles/>
+</settings>
